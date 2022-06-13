@@ -6,3 +6,4 @@
 5. Take a random integer between 0-1000 in seconds, and convert it to the standard hh:mm:ss time format
 6. Write a terminal based Tik-Tak-Toe game 
 7. Compress repeating letters in a string ex: (aaaaaadddh => a6d3h)
+8. Create a ROT13 encryption/decryption algorithm
